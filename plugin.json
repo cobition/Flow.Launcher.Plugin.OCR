@@ -1,0 +1,12 @@
+{
+    "ID": "OCR",
+    "ActionKeyword": "ocr",
+    "Name": "OCR",
+    "Description": "OCR",
+    "Author": "Cobition",
+    "Version": "1.0.0",
+    "Language": "python",
+    "Website": "",
+    "IcoPath": "Images\\app.png",
+    "ExecuteFileName": "main.py"
+}
